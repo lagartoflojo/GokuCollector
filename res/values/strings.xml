@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="your_collections">Your Collections</string>
+    <string name="add_new_collection">Add a new collection</string>
+    <string name="item_placeholder">A nice item</string>
+    <string name="add_new">Add collection</string>
+    <string name="app_name">GokuCollector</string>
+
+</resources>

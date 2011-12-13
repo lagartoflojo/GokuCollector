@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <drawable name="red">#ffff0000</drawable>
+    <drawable name="green">#ff00ff00</drawable>
+    <drawable name="lt_grey">#dddddd</drawable>
+    <drawable name="grey">#999999</drawable>
+    <drawable name="dk_grey">#666666</drawable>
+    <drawable name="throbber_f0">#11ff0000</drawable>
+    <drawable name="throbber_f1">#33ff0000</drawable>
+    <drawable name="throbber_f2">#77ff0000</drawable>
+    <drawable name="throbber_f3">#ccff0000</drawable>
+    <drawable name="throbber_f4">#77ff0000</drawable>
+    <drawable name="throbber_f5">#33ff0000</drawable>
+    <drawable name="throbber_f6">#11ff0000</drawable>
+</resources>

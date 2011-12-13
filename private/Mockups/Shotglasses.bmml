@@ -1,0 +1,62 @@
+<mockup version="1.0" skin="sketch" measuredW="1093" measuredH="666" mockupW="560" mockupH="666">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="533" y="0" w="368" h="666" measuredW="282" measuredH="510" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="569" y="127" w="-1" h="-1" measuredW="216" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Shotglasses</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::StickyNote" x="943" y="141" w="150" h="74" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20thumbnails</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::IconLabel" x="616" y="215" w="-1" h="-1" measuredW="63" measuredH="72" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PagesIcon%7Clarge</icon>
+        <size>16</size>
+        <text>Mexican</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::IconLabel" x="723" y="215" w="-1" h="-1" measuredW="89" measuredH="72" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PagesIcon%7Clarge</icon>
+        <size>16</size>
+        <text>Malta%20Cross</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="__group__" x="719" y="314" w="96" h="90" measuredW="96" measuredH="90" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="46" w="96" h="44" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="19">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Add%20a%20new%0Aitem</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="27" y="0" w="41" h="40" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="19">
+          <controlProperties>
+            <borderStyle>roundedDotted</borderStyle>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::IconLabel" x="601" y="310" w="-1" h="-1" measuredW="92" measuredH="72" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PagesIcon%7Clarge</icon>
+        <size>16</size>
+        <text>Malta%20Badge</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::ButtonBar" x="616" y="177" w="-1" h="-1" measuredW="188" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Photo%20View%2C%20Map%20View</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,50 @@
+<mockup version="1.0" skin="sketch" measuredW="1085" measuredH="666" mockupW="552" mockupH="666">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="533" y="0" w="368" h="666" measuredW="282" measuredH="510" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="569" y="127" w="-1" h="-1" measuredW="285" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Your%20Collections</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="606" y="185" w="-1" h="-1" measuredW="89" measuredH="72" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PagesIcon%7Clarge</icon>
+        <size>16</size>
+        <text>Shotglasses</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="719" y="185" w="-1" h="-1" measuredW="85" measuredH="72" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>PagesIcon%7Clarge</icon>
+        <size>16</size>
+        <text>Model%20Cars</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::StickyNote" x="955" y="119" w="130" h="101" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20thumbs%20of%20items%20in%20the%20collection</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="591" y="286" w="128" h="90" measuredW="128" measuredH="90" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="46" w="128" h="44" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="13">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Add%20a%20new%20collection</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="43" y="0" w="41" h="40" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="13">
+          <controlProperties>
+            <borderStyle>roundedDotted</borderStyle>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
